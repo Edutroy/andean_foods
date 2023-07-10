@@ -1,0 +1,192 @@
+{
+    "comidas": [
+      {
+        "id": 1,
+        "nombre": "Pachamanca",
+        "ingredientes": [
+          "Carne de cerdo",
+          "Pollo",
+          "Cordero",
+          "Papas",
+          "Camotes",
+          "Choclo",
+          "Habas",
+          "Yuca",
+          "Hierbas aromáticas",
+          "Hojas de bijao"
+        ],
+        "preparacion": [
+          "Cava un hoyo en la tierra y enciende un fuego en su interior para calentarlo.",
+          "Coloca piedras grandes sobre el fuego y déjalas calentar durante varias horas.",
+          "Marinar la carne y las hierbas con sal y especias al gusto.",
+          "Coloca las carnes y las verduras en el hoyo caliente, cubriéndolas con las piedras calientes.",
+          "Cubre todo con hojas de bijao y tierra.",
+          "Deja que se cocine durante varias horas hasta que los ingredientes estén tiernos y bien cocidos.",
+          "Retira las piedras y las hojas, y sirve la pachamanca caliente."
+        ],
+        "imagen":["https://www.comidastipicasperuanas.com/wp-content/uploads/2023/03/Receta-de-pachamanca-a-la-tierra-Comidas-Peruanas.jpg"]
+      },
+      {
+        "id": 2,
+        "nombre": "Cuy Colorado",
+        "ingredientes": [
+          "Cuy",
+          "Aji panca",
+          "Ajo",
+          "Comino",
+          "Sal",
+          "Aceite vegetal"
+        ],
+        "preparacion": [
+          "Lava y limpia el cuy, retirando las vísceras.",
+          "En un recipiente, mezcla el aji panca, el ajo machacado, el comino y la sal para hacer una marinada.",
+          "Unta el cuy con esta marinada, asegurándote de cubrirlo bien.",
+          "Deja reposar el cuy marinado durante al menos una hora.",
+          "En una sartén grande, calienta aceite vegetal y fríe el cuy hasta que esté dorado y crujiente.",
+          "Sirve el cuy acompañado de papas doradas y rocoto (ají picante) relleno."
+        ],
+        "imagen":["https://comidasperuanas.net/wp-content/uploads/2021/01/Cuy-colorado.jpg"]
+      },
+      {
+        "id": 3,
+        "nombre": "Trucha Frita",
+        "ingredientes": [
+          "Trucha fresca",
+          "Harina de trigo",
+          "Sal",
+          "Pimienta",
+          "Aceite vegetal"
+        ],
+        "preparacion": [
+          "Lava y limpia la trucha, quitando las vísceras y escamas.",
+          "Mezcla harina de trigo, sal y pimienta en un plato.",
+          "Pasa la trucha por la mezcla de harina, asegurándote de cubrirla completamente.",
+          "Calienta aceite vegetal en una sartén grande.",
+          "Fríe la trucha en el aceite caliente hasta que esté dorada por ambos lados y bien cocida.",
+          "Retira la trucha de la sartén y escúrrela en papel absorbente para eliminar el exceso de grasa.",
+          "Sirve la trucha frita con rodajas de limón y ensalada fresca."
+        ],
+        "imagen":["https://comidasperuanas.net/wp-content/uploads/2019/06/Trucha-frita.jpg"]
+      },
+      {
+        "id": 4,
+        "nombre": "Papa a la Huancaína",
+        "ingredientes": [
+          "Papas amarillas",
+          "Ají amarillo",
+          "Queso fresco",
+          "Leche evaporada",
+          "Galletas de soda o pan remojado en leche",
+          "Aceite vegetal",
+          "Sal",
+          "Hojas de lechuga y aceitunas para decorar"
+        ],
+        "preparacion": [
+          "Hierve las papas en agua con sal hasta que estén tiernas. Luego, pélalas y resérvalas.",
+          "En una licuadora, mezcla el ají amarillo, el queso fresco, la leche evaporada y las galletas hasta obtener una salsa suave.",
+          "Calienta un poco de aceite en una sartén y agrega la salsa. Cocina a fuego medio hasta que espese, revolviendo constantemente.",
+          "Corta las papas cocidas en rodajas y colócalas en un plato.",
+          "Vierte la salsa huancaína sobre las papas y decora con hojas de lechuga y aceitunas.",
+          "Sirve la papa a la huancaína fría o a temperatura ambiente."
+        ],
+        "imagen":["https://assets.unileversolutions.com/recipes-v2/213259.png?imwidth=1600"]
+      },
+      {
+        "id": 5,
+        "nombre": "Jugo de Tuna",
+        "ingredientes": [
+          "Tunas",
+          "Agua",
+          "Azúcar al gusto",
+          "Hielo"
+        ],
+        "preparacion": [
+          "Lava las tunas y retira las espinas.",
+          "Corta las tunas por la mitad y extrae la pulpa con una cuchara.",
+          "Coloca la pulpa de tuna en una licuadora.",
+          "Agrega agua y azúcar al gusto.",
+          "Licúa hasta obtener una mezcla suave.",
+          "Si lo deseas, añade hielo y vuelve a licuar para obtener una consistencia más fría.",
+          "Sirve el jugo de tuna bien frío."
+        ],
+        "imagen":["https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/xoconostle-bebida.jpg"]
+      },
+      {
+        "id": 6,
+        "nombre": "Mazamorra de Chuno",
+        "ingredientes": [
+          "Chuno",
+          "Leche",
+          "Azúcar al gusto",
+          "Canela en polvo",
+          "Pasas"
+        ],
+        "preparacion": [
+          "Remoja el chuno en agua durante varias horas o durante la noche para rehidratarlo.",
+          "Lava bien el chuno para eliminar el almidón y cámbiale el agua varias veces.",
+          "Cocina el chuno en agua con una pizca de sal hasta que esté tierno.",
+          "Escurre el chuno y colócalo en una olla.",
+          "Agrega leche y azúcar al gusto.",
+          "Cocina a fuego medio-bajo, revolviendo constantemente hasta que espese.",
+          "Retira del fuego y espolvorea con canela en polvo.",
+          "Si lo deseas, agrega pasas antes de servir.",
+          "Sirve la mazamorra de chuno caliente o fría."
+        ],
+        "imagen":["https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/xoconostle-bebida.jpg"]
+      },
+      {
+        "id": 7,
+        "nombre": "Mazamorra de Caya",
+        "ingredientes": [
+          "Maíz morado",
+          "Agua",
+          "Azúcar al gusto",
+          "Cáscara de piña (opcional)",
+          "Canela en rama",
+          "Clavos de olor"
+        ],
+        "preparacion": [
+          "Lava el maíz morado y colócalo en una olla.",
+          "Cubre el maíz con agua y agrega la cáscara de piña, la canela en rama y los clavos de olor.",
+          "Cocina a fuego medio-bajo hasta que el maíz se haya desprendido y el agua se haya teñido de color morado.",
+          "Retira la cáscara de piña, la canela y los clavos de olor.",
+          "Agrega azúcar al gusto y revuelve hasta que se disuelva completamente.",
+          "Deja enfriar a temperatura ambiente o en el refrigerador.",
+          "Sirve la mazamorra de caya fría."
+        ],
+        "imagen":["https://4.bp.blogspot.com/-XoHC3U_esCQ/VZGn7vnWD6I/AAAAAAAAE_I/eDvja747SIY/s1600/dulce%2Bde%2Bcaya.jpg"]
+      },
+
+       {
+      "id": 8,
+      "nombre": "Mondongo",
+      "ingredientes": [
+        "Callos de res limpios y cortados en trozos pequeños",
+        "Cebolla",
+        "Ajo",
+        "Ají amarillo (puede ser en pasta)",
+        "Comino",
+        "Orégano",
+        "Pimentón",
+        "Caldo de res",
+        "Papas",
+        "Zanahorias",
+        "Arvejas",
+        "Sal",
+        "Pimienta",
+        "Aceite vegetal"
+      ],
+      "preparacion": [
+        "En una olla grande, calienta aceite vegetal y agrega la cebolla picada y el ajo machacado. Sofríe hasta que estén dorados y fragantes.",
+        "Agrega el ají amarillo y los callos de res. Cocina hasta que los callos estén tiernos.",
+        "Agrega comino, orégano y pimentón al gusto.",
+        "Añade caldo de res suficiente para cubrir los callos y lleva a ebullición.",
+        "Agrega las papas y las zanahorias en trozos y cocina hasta que estén tiernas.",
+        "Agrega las arvejas y cocina por unos minutos más.",
+        "Sazona con sal y pimienta al gusto.",
+        "Sirve el mondongo caliente acompañado de arroz blanco."
+      ],
+      "imagen":["https://comeperuano.b-cdn.net/wp-content/uploads/2020/08/receta-de-patasca.jpg"]
+    }
+    
+    ]}
